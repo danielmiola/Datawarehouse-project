@@ -1,0 +1,11 @@
+Universidade Federal de São Carlos - UFSCar
+Novas Tecnologias em Banco de Dados
+
+Prof. Dra. Sahudy Montenegro González
+Trabalho de Projeto Final - Data Warehouse
+
+Integrantes:
+
+	438340 - Daniel Ramos Miola
+	408611 - Igor Felipe Ferreira Ceridório
+	489964 - Monique Spessoto Ribeiro
